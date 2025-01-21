@@ -1,3 +1,6 @@
+pwd
+ls
+echo "hello"
 # this is a bash script file
 # run it like:
 # bash script.sh
